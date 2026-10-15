@@ -1,0 +1,11 @@
+# Use the same TensorFlow/Keras version you trained with (print tf.__version__ in the notebook)
+tensorflow>=2.16
+tf-keras>=2.16
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+opencv-python-headless>=4.9,<5
+librosa>=0.10
+numpy
+streamlit>=1.35
+requests
